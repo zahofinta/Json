@@ -1,0 +1,23 @@
+
+{"news":[
+        {
+            "link":"img/rsz_palachut.jpg",
+            "text":"Палачът на ЦСКА кърпи защитата на Берое",
+            "type": "football"
+        },
+        {
+            "link":"img/rsz_vzriviha.jpg",
+            "text":"Взривиха скандал с уговорен мач в Б Група",
+            "type": "football"
+        },
+        {
+            "link":"img/rsz_burzi.jpg",
+            "text":"В ЦСКА искат да са Бързи и яростни за Ботев",
+            "type": "football"
+        },
+        {
+            "link":"img/rsz_hristo.jpg",
+            "text":"Ристосков скочи на Джугански: Съсипа българското съдийство",
+            "type": "football"
+        }
+]}
